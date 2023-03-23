@@ -74,7 +74,7 @@ After merging all the sets, we count the number of spare connections. These are 
 
 If there are enough spare connections to connect all separate sets, we return the number of separate sets - 1. Otherwise, if there are enough spare connections to connect all nodes left after merging the sets, we return that number. Otherwise, it is not possible to connect all nodes, so we return -1.
 
-That's a brief explanation of the approach! Let me know if you have any questions.
+That's a brief explanation of the approach! 
 
 
 
